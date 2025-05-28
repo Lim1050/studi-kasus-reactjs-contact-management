@@ -1,0 +1,5 @@
+Studi Kasus React.js : Contact Management (Bahasa Indonesia) 15:49 setup backend project
+
+git init | git add . |git commit -m "15:49 setup backend project" | git remote add origin https://github.com/Lim1050/studi-kasus-reactjs-contact-management.git | git push -u origin main
+
+
