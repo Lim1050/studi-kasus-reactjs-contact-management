@@ -1,5 +1,10 @@
-Studi Kasus React.js : Contact Management (Bahasa Indonesia) 15:49 setup backend project
+sebelum mulai
+1. run database
+2. run nodejs
+3. run reactjs
 
-git init | git add . |git commit -m "15:49 setup backend project" | git branch -M main | git remote add origin https://github.com/Lim1050/studi-kasus-reactjs-contact-management.git | git push -u origin main
+Studi Kasus React.js : Contact Management (Bahasa Indonesia) 01:12:25 Logout User Page
+
+git init | git add . |git commit -m "01:12:25 Logout User Page" | git branch -M main | git remote add origin https://github.com/Lim1050/studi-kasus-reactjs-contact-management.git | git push -u origin main
 
 
