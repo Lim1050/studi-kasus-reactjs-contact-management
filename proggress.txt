@@ -3,8 +3,8 @@ sebelum mulai
 2. run nodejs
 3. run reactjs
 
-Studi Kasus React.js : Contact Management (Bahasa Indonesia) 02:07:10 Detail Contact Page
+Studi Kasus React.js : Contact Management (Bahasa Indonesia) 02:35:12 - Delete Address Page
 
-git init | git add . |git commit -m "02:07:10 Detail Contact Page" | git branch -M main | git remote add origin https://github.com/Lim1050/studi-kasus-reactjs-contact-management.git | git push -u origin main
+git init | git add . |git commit -m "02:35:12 - Delete Address Page" | git branch -M main | git remote add origin https://github.com/Lim1050/studi-kasus-reactjs-contact-management.git | git push -u origin main
 
 
